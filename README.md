@@ -1,7 +1,7 @@
 ### Hello Human! 👋
 I'm Kylee (she/her)! I am currently:
 
-- 🔭 working as a data engineering intern
+- 💻 working as a data engineering intern
 - 🌱 co-founding a non-profit that aims to promote inclusion in tech
 - ⚡ building an awesome portfolio
 - 💗 loving blockchain and functional programming!
