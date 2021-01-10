@@ -1,6 +1,6 @@
 ### Hello Human! 👋
 
-I'm Kylee (she/her)! I have worked as a data engineering intern, freelance frontend / fullstack developer, and shopify partner.
+I'm Kylee (she/her)! Largely self-taught developer and Computer Science student at UMD. 🤖
 
 Now, I am currently:
 
@@ -11,5 +11,5 @@ Now, I am currently:
 
 Find me elsewhere on the interwebz [here!](https://kyleecodes.com/link-tree)
 
-**kyleecodes/kyleecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
