@@ -1,6 +1,7 @@
 ### Hello Human! 👋
 
 I'm Kylee (she/her)! Largely self-taught developer and Computer Science student at UMD. 🤖
+Graduating May 2022.
 
 Now, I am currently:
 
