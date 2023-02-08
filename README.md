@@ -1,8 +1,9 @@
 ### Greetings 👋
 
 My name is Kylee. I'm a tech generalist dev and computer science nerd.
-I'm currently working in developer relations, technical community management, and technical content creation under the name "Communal Tech".
-Overall, I really enjoy enabling developers to build cool things!
+I work in developer relations, technical community management, and tech content creation.
+
+Currently leading the tech community at [NocoDB](https://www.nocodb.com/).
 
 Learn more about me on [my website](https://www.communaltech.com/).
 
