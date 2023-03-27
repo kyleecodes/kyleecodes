@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-My name is Kylee, I'm a tech generalist and long-time tech nerd.
+My name is Kylee, I'm a tech generalist and software nerd.
 
 I work in developer relations as a community manager and content developer, and I provide consulting under my business, Communal Tech. 
 Communal Tech = Tech for Everyone! 😊
