@@ -1,3 +1,3 @@
 ###   Welcome 👋
 
-[Communal Tech.](https://www.communaltech.com/)
+[Communal Tech.](https://communaltech.notion.site/)
