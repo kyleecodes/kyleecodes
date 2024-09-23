@@ -1,5 +1,13 @@
-Hi, I'm Kylee! 👋
+## Greetings! My name is Kylee, I'm an open-source developer advocate 👋
 
-I'm a developer advocate, bridging the gap between code and community. Since 2021, my work has cultivated sustainable tech communities for startups and non-profits. My greatest passions are cutting-edge technology, enabling innovation, and living life in dark mode. 🌙
+**I specialize in bridging the gap between code + community. 🤝**
 
-Learn more about me and connect: https://www.communaltech.com/
+Since 2021, my work has cultivated innovative communities, sustainable programs, and technical solutions for open-source startups and non-profits. 🌎
+
+My greatest motivators? Empowering developers to build, designing problem-solving systems, connecting people, and the joy of coding from dark mode terminals. 🌙
+
+Let's Connect! ➡️ https://www.communaltech.com/
+
+~ Live Long and Prosper ⭐
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleecodes&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
