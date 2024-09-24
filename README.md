@@ -1,10 +1,12 @@
-## Greetings! My name is Kylee, I'm an open-source developer advocate 👋
+## Welcome to my corner of GitHub 🌐
 
-**I specialize in bridging the gap between code + community. 🤝**
+**My name is Kylee, and I bridge the gap between community + code.**
 
-Since 2021, my work has cultivated innovative communities, sustainable programs, and technical solutions for open-source startups and non-profits. 🌎
+I'm an open-source developer advocate and community builder from the East Coast of the United States. 🌎
 
-My greatest motivators? Empowering developers to build, designing problem-solving systems, connecting people, and the joy of coding from dark mode terminals. 🌙
+Since 2021, my work has cultivated innovative communities, sustainable programs, and technical solutions for open-source startups and non-profits. #techforgood 
+
+I specialize in enabling developers to build, and designing systems to solve-problems. Most days, you can find me coding from dark mode terminals. 🌙
 
 Let's Connect! ➡️ https://www.communaltech.com/
 
