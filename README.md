@@ -2,8 +2,6 @@
 
 **I'm Kylee, a developer advocate and open-source developer passionate about bridging the gap between community + code. 🌐**
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyleecodes&title=-Stars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-~ Live Long and Prosper ⭐
+**May the open-source be with you 🚀**
